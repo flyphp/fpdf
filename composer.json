@@ -1,0 +1,23 @@
+{
+    "name": "flykode/fpdf",
+    "description": "Unofficial PSR-4 compliant version of the FPDF library (with improvements).",
+    "license": "MIT",
+    "keywords": ["php","fpdf"],
+    "authors": [
+        {
+            "name": "Olivier PLATHEY",
+            "email": "oliver@fpdf.org"
+        },
+        {
+            "name": "Allan Freitas",
+            "email": "allankode@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Flykode\\Fpdf\\": "src"
+        }
+    }
+}
